@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_add"
+        android:title="@string/add_component" />
+    <item
+        android:id="@+id/action_clear"
+        android:title="@string/clear" />
+    <item
+        android:id="@+id/action_exit"
+        android:title="@string/exit" />
+</menu>
